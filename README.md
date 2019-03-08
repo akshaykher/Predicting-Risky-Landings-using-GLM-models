@@ -1,6 +1,7 @@
 # Predicting-Risky-Landings-using-GLM-models
 
 **Project Link**:
+http://rpubs.com/akshaykher/Predicting-Risky-Landings-using-GLM-models
 
 **Data Link**:
 
