@@ -1,7 +1,7 @@
-# Predicting house prices using multiple regression models
+# Predicting Riksy Landings using GLM models
 
 **Project Link**:
-https://rpubs.com/akshaykher/Predicting-house-prices-using-multiple-models
+https://rpubs.com/akshaykher/Predicting-Risky-Landings-using-GLM-models
 
 #### Motivation: 
 To reduce the risk of landing overrun.
